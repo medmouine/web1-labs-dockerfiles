@@ -1,3 +1,8 @@
+Les Dockerfiles présents dans ce repository seront utilisés pour la correction des laboratoires. 
+
+Pour vous assurer du bon fonctionnement de votre application, vous pouvez les utiliser librement mais aucune connaissance en rapport avec Docker ou toute autre outil de containerization ne fait partie de la matière du cours et vous ne serez dans aucunement jugés là-dessus.
+
+
 # Dockerfiles pour les laboratoires du cours Développement d'applications Web GLO-3102
 
 
