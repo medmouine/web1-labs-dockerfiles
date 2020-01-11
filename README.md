@@ -34,6 +34,7 @@ const port = process.env.PORT || 3000;
 **Note importante 3: Il est important que les applications Node démarrent en utilisant un script `start` appelable avec la commande `npm start`**
 
 Pour ajouter ce script dans votre projet, modifier le ficher `package.json` et rajouter dans la section `scripts` la commande `start` avec la commande associée pour démarrer le projet. 
+
 Exemple :
 
 ```json
